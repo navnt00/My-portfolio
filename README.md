@@ -1,13 +1,18 @@
-# Your Portfolio
+# My Portfolio
 
-Brief description of your portfolio project.
+## Live Demo
+Check out the live demo [here](https://YOUR-USERNAME.github.io/REPOSITORY-NAME)
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Local Development
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm start
+   ```
 
-## Technologies Used
-- List your tech stack
-
-## Installation
+## Deployment
+This site is deployed on GitHub Pages. To deploy new changes:
