@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 ## Live Demo
@@ -16,3 +17,6 @@ Check out the live demo [here](https://YOUR-USERNAME.github.io/REPOSITORY-NAME)
 
 ## Deployment
 This site is deployed on GitHub Pages. To deploy new changes:
+=======
+# MY Portfolio
+>>>>>>> 601d26249c6d5ab7b879d2f73197a20749e6630e
